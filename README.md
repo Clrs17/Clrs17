@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ClarisS01017, a student studying at the Affiliated High School of SCNU.
-- 👀 I’m interested in OI, Windows App developing.
+- 👀 I’m interested in OI and Windows App developing.
 - 🌱 I’m currently learning Windows 10 Application development.
 - 📫 You can reach me at 2318678921@qq.com
 
